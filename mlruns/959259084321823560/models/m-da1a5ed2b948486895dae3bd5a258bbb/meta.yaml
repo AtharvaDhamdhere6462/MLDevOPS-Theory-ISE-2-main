@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/athar/Downloads/MLDevOPS-Theory-ISE-2-main/MLDevOPS-Theory-ISE-2-main/mlruns/959259084321823560/models/m-da1a5ed2b948486895dae3bd5a258bbb/artifacts
+creation_timestamp: 1793192885216
+experiment_id: '959259084321823560'
+last_updated_timestamp: 1793192895966
+model_id: m-da1a5ed2b948486895dae3bd5a258bbb
+model_type: null
+name: model
+source_run_id: 4d6a9fc0cdcd450f81577cea6d389608
+status: 2
+status_message: null

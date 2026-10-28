@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/athar/Downloads/MLDevOPS-Theory-ISE-2-main/MLDevOPS-Theory-ISE-2-main/mlruns/959259084321823560/9eb8ecb55e964c95b7b2ce41242c5d23/artifacts
+end_time: 1793192742606
+entry_point_name: ''
+experiment_id: '959259084321823560'
+lifecycle_stage: active
+run_id: 9eb8ecb55e964c95b7b2ce41242c5d23
+run_name: Baseline_Model_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793192736475
+status: 4
+tags: []
+user_id: athar

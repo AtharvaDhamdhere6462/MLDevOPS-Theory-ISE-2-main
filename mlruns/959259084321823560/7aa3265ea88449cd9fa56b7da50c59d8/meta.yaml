@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/athar/Downloads/MLDevOPS-Theory-ISE-2-main/MLDevOPS-Theory-ISE-2-main/mlruns/959259084321823560/7aa3265ea88449cd9fa56b7da50c59d8/artifacts
+end_time: 1793192912379
+entry_point_name: ''
+experiment_id: '959259084321823560'
+lifecycle_stage: active
+run_id: 7aa3265ea88449cd9fa56b7da50c59d8
+run_name: Monitoring_Batch_3_ConceptDrift
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793192899426
+status: 3
+tags: []
+user_id: athar

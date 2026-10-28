@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/athar/Downloads/MLDevOPS-Theory-ISE-2-main/MLDevOPS-Theory-ISE-2-main/mlruns/959259084321823560/1f00b2318a454310a82bee83f1d117c3/artifacts
+end_time: 1793192896057
+entry_point_name: ''
+experiment_id: '959259084321823560'
+lifecycle_stage: active
+run_id: 1f00b2318a454310a82bee83f1d117c3
+run_name: Monitoring_Batch_2_DataDrift
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793192882249
+status: 3
+tags: []
+user_id: athar
